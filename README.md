@@ -1,1 +1,2 @@
-# Fall2021-S2
+# Writ 1 Fall 2021 Section 1 Website
+

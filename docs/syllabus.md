@@ -1,6 +1,6 @@
-[click here to open the Syllabus in a new tab](https://drive.google.com/file/d/1TA-1_cXGrkc1MbuOpJCUtXCy-7fzVRhF/view){:target="_blank"}
+[click here to open the Syllabus in a new tab](https://drive.google.com/file/d/1R9y8EXFtn4-c5HZ5E3SY2smPoCY561sA/view){:target="_blank"}
 
 <br> 
 
-<iframe src="https://drive.google.com/file/d/1TA-1_cXGrkc1MbuOpJCUtXCy-7fzVRhF/preview" width="800" height="1000" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1R9y8EXFtn4-c5HZ5E3SY2smPoCY561sA/preview" width="800" height="1000" allowfullscreen>
 </iframe>

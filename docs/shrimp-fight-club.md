@@ -74,7 +74,7 @@ After your 30 minutes are up, please attempt the following question:
 
 <br>
 
-Now that you've done a first pass reading of the Shrimp Fight Case Study, you now have completed a first-pass overview of all three case studies. Now is the time to decide which case study you will focus on, and do a second-pass annotated reading of the case study contents. Please make your selection on this [Case Study Sign Up Sheet](https://docs.google.com/spreadsheets/d/1_kIrbY2lCCJrGF2P3MYYvBcT1hd97DiAHagG8ktI8ig/edit?usp=sharing){:target="_blank"}. There is a limit of 5 students per case study so that we can have an even discussion of the different case studies. Your choice here doesn't affect which case study you will write about in your main essay. After you've signed up, head back to the [overview page](case-study-overview) and start working on your chosen case study! 
+Now that you've done a first pass reading of the Shrimp Fight Case Study, you now have completed a first-pass overview of all three case studies. Now is the time to decide which case study you will focus on, and do a second-pass annotated reading of the case study contents. Please make your selection on this [Case Study Sign Up Sheet](https://docs.google.com/spreadsheets/d/1L-Tp2dbHMG1d-6o3OvGxiLE9NP3Djk1hTeFgRjd4neU/edit?usp=sharing){:target="_blank"}. There is a limit of 5 students per case study so that we can have an even discussion of the different case studies. Your choice here doesn't affect which case study you will write about in your main essay. After you've signed up, head back to the [overview page](case-study-overview) and start working on your chosen case study! 
 
 <br> 
 

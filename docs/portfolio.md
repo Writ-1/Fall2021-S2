@@ -1,4 +1,4 @@
-Your final portfolio is due Friday October 15 at 8am.
+Your final portfolio is due Friday December 10 at 8am.
 
 Your portfolio includes both your reflective essay and your [main essay](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view){:target="_blank"}.
 
@@ -6,12 +6,12 @@ Your portfolio includes both your reflective essay and your [main essay](https:/
 
 Date | Item
 ------|----------
-Sun Sep 12 5pm | Intro/Thesis Statement/Outline
-Sun Sep 19 5pm | Main Essay Draft
-Sun Sep 26 5pm | Revision 1
-Sun Oct 3 5pm | Revision 2
-Fri Oct 8 8am | Reflective Essay Draft
-Fri Oct 15 8am | Final Portfolio
+Sun Oct 31 5pm | Intro/Thesis Statement/Outline
+Sun Nov 7 5pm | Main Essay Draft
+Sun Nov 14 5pm | Revision 1
+Sun Nov 21 5pm | Revision 2
+Fri Dec 3 8am | Reflective Essay Draft
+Fri Dec 10 8am | Final Portfolio
 
 ## Reflective Essay
 

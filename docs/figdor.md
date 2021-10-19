@@ -69,7 +69,7 @@ Once you are finished with your annotations, please [upload a pdf of your annota
 
 ## Third-pass reading
 
-Make a final pass of your annotated copy of Figdor, and make notes about how you might answer the following discussion questions **with evidence from the text**. We will ask you about these in our class discussion on Wednesday, so have your notes handy for Wednesday's class.
+Make a final pass of your annotated copy of Figdor, and make notes about how you might answer the following discussion questions **with evidence from the text**. We will ask you about these in our class discussion, so have your notes handy for class.
 
 + In your own words, summarize the problem that Figdor is trying to address.
 

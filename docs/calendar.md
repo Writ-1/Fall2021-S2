@@ -7,7 +7,7 @@
 
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
-Wed Oct 20 |  | - introductions <br> - [quickwrite 1](quickwrite-1){:target="_blank"} <br> - [syllabus exercise](https://forms.gle/ktC4Mf1wWB89n1Jv5){:target="_blank"} <br> - book a 10-minute appointment for both [Prof. Esin](https://calendar.google.com/calendar/selfsched?sstoken=UUQ3VGNIY0NmVmROfGRlZmF1bHR8OTdlNGNiMGZhY2E0YTg0M2Y4M2NhZDQzNTRhOGU2NjU){:target="_blank"} and [Prof. Ilton](https://calendar.google.com/calendar/selfsched?sstoken=UUNveWstTXNRSTVwfGRlZmF1bHR8ZmY1MDkyZTFiODRjZmE5ZjQ5MDkyYmM1OWE5ZDVmZmY)
+Wed Oct 20 |  | - introductions <br> - [quickwrite 1](quickwrite-1){:target="_blank"} <br> - [syllabus exercise](https://forms.gle/ktC4Mf1wWB89n1Jv5){:target="_blank"}  <!--- <br> - book a 10-minute appointment for both [Prof. Esin](https://calendar.google.com/calendar/selfsched?sstoken=UUQ3VGNIY0NmVmROfGRlZmF1bHR8OTdlNGNiMGZhY2E0YTg0M2Y4M2NhZDQzNTRhOGU2NjU){:target="_blank"} and [Prof. Ilton](https://calendar.google.com/calendar/selfsched?sstoken=UUNveWstTXNRSTVwfGRlZmF1bHR8ZmY1MDkyZTFiODRjZmE5ZjQ5MDkyYmM1OWE5ZDVmZmY) -->
 Fri Oct 22 | - [Figdor reading guide](figdor){:target="_blank"} (due 8am) | - [syllabus questions answered](https://drive.google.com/file/d/1n4xdzfn9fLhmhA50LM3NAqa5dAuGAnvm/view?usp=sharing){:target="_blank"} <br> - go over [class discussion guidelines](https://drive.google.com/file/d/19JNn4LZWqB22oltlcipwl_JGMEL_p9cQ/view?usp=sharing){:target="_blank"} <br> - [quickwrite 2](quickwrite-2){:target="_blank"} <br> - discussion of Figdor
 
 

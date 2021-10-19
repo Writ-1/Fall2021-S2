@@ -7,6 +7,6 @@ A Quickwrite is a short (5-10 minute) in-class writing activity. We usually use 
 *Describe your past experiences as a writer.*
 
 
-When time is up, upload your docx file to your [Writ 1 Sakai Dropbox](https://sakai.claremont.edu/portal/site/CX_mtg_141462/tool/4d7442c8-c18a-4421-a246-af329229695d){:target="_blank"} (found on the side menu on our Sakai page). Create a folder called "Quickwrites" in your Dropbox folder.
+When time is up, upload your docx file to your Writ 1 Sakai Dropbox (found on the side menu on our Sakai page). Create a folder called "Quickwrites" in your Dropbox folder.
 
 

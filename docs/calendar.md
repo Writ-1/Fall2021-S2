@@ -1,5 +1,8 @@
 [Jump to this week's content](#bottom)
 
+
+<a id="bottom"></a>
+
 ### Week 1
 
 Date       | Due Outside Class | In-Class Activities 
@@ -8,7 +11,6 @@ Wed Oct 20 |  | - introductions <br> - [quickwrite 1](quickwrite-1){:target="_bl
 Fri Oct 22 | - [Figdor reading guide](figdor){:target="_blank"} (due 8am) | - [syllabus questions answered](https://drive.google.com/file/d/1n4xdzfn9fLhmhA50LM3NAqa5dAuGAnvm/view?usp=sharing){:target="_blank"} <br> - go over [class discussion guidelines](https://drive.google.com/file/d/19JNn4LZWqB22oltlcipwl_JGMEL_p9cQ/view?usp=sharing){:target="_blank"} <br> - [quickwrite 2](quickwrite-2){:target="_blank"} <br> - discussion of Figdor
 
 
-<a id="bottom"></a>
 
 
 ### Week 2

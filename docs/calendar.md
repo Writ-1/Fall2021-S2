@@ -48,7 +48,7 @@ Date       | Due Outside Class | In-Class Activities
 -----------|-------------------|-------------------
 Mon Nov 8 |                   | - [Williams 3 & 4.pdf](https://drive.google.com/file/d/1uyXjzC7zfshdWHO_1zmczqEhcTbhlAFL/view?usp=sharing){:target="_blank"} <br> - [Williams Group Exercises](https://drive.google.com/drive/folders/1HZL2gX3wg4FgxRSjinP_CoxiQJBvZqe1?usp=sharing){:target="_blank"}
 Wed Nov 10 |                   | No class -- conferences held outside class
-Fri Nov 12 | - [Williams 5, 6, 9 exercises](https://drive.google.com/file/d/1fmt-GsCgt6z41KZmVJSSloYXLBD72Lg1/view?usp=sharing){:target="_blank"} (due 8am)                   | - [Williams 5, 6, 9 review](https://drive.google.com/file/d/1-drGPyjcjMNeQwIq-quwjJmKVe4YHbR4/view?usp=sharing){:target="_blank"} <br> - [Williams 5, 6, 9 partner activity](https://drive.google.com/drive/folders/1jSz-4H_mU58wZ53XbjrPvzAyU7dnZ8HT?usp=sharing){:target="_blank"}
+Fri Nov 12 | - [Williams 5, 6, 9 exercises](https://drive.google.com/file/d/1fmt-GsCgt6z41KZmVJSSloYXLBD72Lg1/view?usp=sharing){:target="_blank"} (due 8am)                   | - [Williams 5, 6, 9 review](https://drive.google.com/file/d/19l_wpNvZ325MZrBIA2_nkM_DJfTlPpgs/view?usp=sharing){:target="_blank"} <br> - [Williams 5, 6, 9 partner activity](https://drive.google.com/drive/folders/1yZd4i6uF82zWeTouooPFbBcWql1rhyia?usp=sharing){:target="_blank"}
 Sun Nov 14 | Revision 1 Due in Sakai Dropbox by 5pm | 
 
 <br>

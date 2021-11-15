@@ -99,6 +99,7 @@ Fri Dec 3 | Reflective Essay due 8am | - peer review Reflective Essay
 <br>
 
 ### Week 8
+
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
 Mon Dec 6 |                    | - Quickwrite: revision plan <br> - Introduce [portfolio instructions](portfolio){:target="_blank"} <br> - Writing work day 

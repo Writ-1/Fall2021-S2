@@ -26,3 +26,10 @@ See the [Reflective Essay Prompt](https://drive.google.com/file/d/1-RKhXKFUR0dX6
 [Example APA References.docx](https://docs.google.com/document/d/1laOAXYh_ahzhYCjjHUvJ8hNqr8LNb-Ku/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}
 
 [Porfolio Checklist.pdf](https://drive.google.com/file/d/1aiL-fBcjxIPpz6hwCjnq-uCLVarVl7IG/view?usp=sharing){:target="_blank"}
+
+## Evaluation Rubric
+
+[Writ 1 Rubric](https://drive.google.com/file/d/12BmtAer7NcoVk2ouOUmI5v2NBzjFZfSZ/view?usp=sharing){:target="_blank"}
+
+[Writ 1 Rubric Organized by Category](https://drive.google.com/file/d/12KVSe0SRRI1KnKYFfR6WFWMJ4f2MPxSy/view?usp=sharing){:target="_blank"}
+

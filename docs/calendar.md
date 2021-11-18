@@ -62,7 +62,7 @@ Date       | Due Outside Class | In-Class Activities
 Mon Nov 15 |                   | - [intro to peer review](https://drive.google.com/file/d/1wcWZOayT5vJzpK2uVjQNsZKH21BSJaJs/view?usp=sharing){:target="_blank"} <br> - [peer review groups & instructions](https://docs.google.com/document/d/1b7PT22Vx1hwedD6NyDOop_GSc7rnbG08lOXtjvL-kwE/edit?usp=sharing){:target="_blank"} <br> - [peer review protocol](https://docs.google.com/document/d/1Vhp_dCH-xmvJjCKUQgxgrI2UimTeB2fU/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}
 Tue Nov 16 | - 2x2 Peer Reviews due by 11:59 pm | 
 Wed Nov 17 |                   | - peer review debrief <br> - [Reverse Outline & prepare revision plan](https://docs.google.com/document/d/1XIFgvkWlfs8ZNX-c3OHUTi2HuxoQVxPHiNJz7n5W90g/edit?usp=sharing){:target="_blank"}
-Fri Nov 19 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/document/d/1Az6-_NkVSMc4iD3bwy2Mnfy97xYysH-p/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} (due by 8 am) | - Crowdsourcing of Evidence and Revision
+Fri Nov 19 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/document/d/1Az6-_NkVSMc4iD3bwy2Mnfy97xYysH-p/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} (due by 8 am) | - [Revision Activity: Focus on Evidence Sandwiches](https://drive.google.com/file/d/14TRDzdFFMB9SjdTiGCBjW4pwZZLH_ERi/view?usp=sharing){:target="_blank"}
 Sun Nov 21 | Revision 2 Due in Sakai Dropbox by 5pm | 
 
 
